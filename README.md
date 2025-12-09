@@ -32,6 +32,7 @@
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -47,15 +48,16 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougSantosDev&layout=compact&theme=tokyonight"
   />
 </p>
+-->
 
 ---
 
+<!--
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/DougSantosDev/DougSantosDev/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
----
+-->
 
 ## 🌱 Currently Learning
 
