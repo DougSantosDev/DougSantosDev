@@ -69,11 +69,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/douglas-de-araujo-48562327b" target="_blank">
+    <img src="https://img.shields.io/badge/-Douglas%20Santos%20|%20LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  <a href="mailto:doug.santosdev@gmail.com">
+    <img src="https://img.shields.io/badge/-doug.santosdev@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
