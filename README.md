@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hey, I'm Douglas Santos</h1>
 
-<h3 align="center">📱 Mobile Developer | React Native • PHP • MySQL</h3>
+<h3 align="center">📱 Mobile Developer | React Native • PHP • MySQL • Full Stack in Progress</h3>
 
 <p align="center">
-  Passionate about building mobile applications focused on usability, clean architecture, 
-  and real-world impact — especially in sustainability and smart services like my project RECOLHE360.
+  I build real-world applications focused on usability, scalable architecture, 
+  and social impact. Currently developing production-oriented mobile apps with 
+  backend integration and authentication flows.
 </p>
 
 ---
@@ -18,53 +19,50 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| ♻ **RECOLHE360** | Mobile app connecting recyclers & donors with real-time routing, scheduling, and geolocation | 🚧 In progress |
-| 🧪 **php_alunos** | Educational CRUD system using PHP & MySQL | ✅ Completed |
-| 🛠 **Various Experiments** | React Native interfaces, APIs, WinForms, backend tests | 🔄 Ongoing |
+| Project | Description | Tech | Status |
+|--------|-------------|------|--------|
+| ♻ **RECOLHE360** | Mobile platform connecting recyclers & donors. Real authentication, scheduling system, role-based navigation, and PHP backend integration. | React Native • PHP • MySQL • REST | 🚧 In Development |
+| 🏦 **Web Banking System** | Web banking simulation with session persistence, deposit/withdraw logic and user flow control. | PHP | ✅ Completed |
+| 📊 **Financial Manager (Laravel)** | Personal finance management system with dashboard, recurring transactions and reports. | Laravel • MySQL | 🚧 In Progress |
+| 🎓 **Educational CRUD (php_alunos)** | Academic CRUD system with database integration and validation. | PHP • MySQL | ✅ Completed |
 
 ---
 
-<!--
-## 📈 GitHub Stats
+## 🧠 What I'm Building Right Now
 
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DougSantosDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougSantosDev&layout=compact&theme=tokyonight"
-  />
-</p>
--->
+- 🔐 Real authentication with backend (login + register + role system)
+- 📦 REST API consumption in React Native
+- 🗂 Scalable folder structure for mobile apps
+- 🔄 State management and navigation flow separation (Doador / Coletor)
+- 🧱 Backend APIs with secure database connection
+- 🌎 Sustainability-focused tech solutions
 
 ---
 
-<!--
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/DougSantosDev/DougSantosDev/blob/output/github-contribution-grid-snake.svg" />
-</p>
--->
+## 🌱 Currently Leveling Up In
 
-## 🌱 Currently Learning
+- 📱 Advanced React Native Architecture
+- 🧼 Clean Code & SOLID principles
+- 🔌 API Security & Token-based Authentication
+- ⚙ Backend structure & production patterns
+- 🚀 Deploy mindset (thinking beyond local development)
 
-- 📱 **Advanced React Native Architecture**
-- 🔌 **REST API Integration (PHP + MySQL)**
-- 🧼 **Clean Code & Scalable Patterns**
-- 🔐 **Authentication & Secure App Flows**
+---
+
+## 🎯 2026 Goals
+
+- Transition fully into a Junior Mobile / Full Stack Developer role
+- Publish RECOLHE360 in production environment
+- Strengthen portfolio with real backend integrations
+- Build scalable and monetizable applications
 
 ---
 
@@ -82,5 +80,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Technology is our hammer — let's build solutions that transform communities."</i>
+  💡 <i>"Technology is a tool. Real impact comes from how we apply it."</i>
 </p>
